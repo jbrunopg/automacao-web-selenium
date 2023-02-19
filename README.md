@@ -10,13 +10,13 @@ O projeto se baseia em uma automação web.
 
 Pegar a cotação do Ouro, Dólar e Euro e usaremos esses dados para atualizar a planilha que está disponível <a href="https://drive.google.com/drive/folders/1KmAdo593nD8J9QBaZxPOG1yxHZua4Rtv?usp=sharing">aqui</a> para saber quanto devemos cobrar pelos nossos produtos.
 
-## Meu processo
+## Processo de Desenvolvimento
 
-- Importação da biblioteca Selenium
-- Buscar as cotações do Ouro, Dólar e Euro
-- Importação da tabela dos produtos para atualizar os preços de venda e a margem de lucro
-- Recalcular os preços
-- Exportar planilha atualizada
+- [X] Importação da biblioteca Selenium
+- [X] Buscar as cotações do Ouro, Dólar e Euro
+- [X] Importação da tabela dos produtos para atualizar os preços de venda e a margem de lucro
+- [X] Recalcular os preços
+- [X] Exportar planilha atualizada
 
 ## Agradecimento
 
